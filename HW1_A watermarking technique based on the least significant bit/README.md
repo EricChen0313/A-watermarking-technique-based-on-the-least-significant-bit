@@ -101,7 +101,7 @@ HW1_A watermarking technique based on the least significant bit
 └── README.md
 ```
 
-## Reference
+## References
 - [opencv 隱藏浮水印](https://benjaminnl.pixnet.net/blog/post/59461240-opencv-%E9%9A%B1%E8%97%8F%E6%B5%AE%E6%B0%B4%E5%8D%B0)
 - [影像的旋轉、翻轉和改變尺寸](https://steam.oxxostudio.tw/category/python/ai/opencv-resize.html)
 - [影像的色彩轉換](https://steam.oxxostudio.tw/category/python/ai/opencv-cvtcolor.html)
