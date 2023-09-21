@@ -50,9 +50,6 @@ $ python hw_code.py
 ## Result
 ![Result Image](https://github.com/EricChen0313/A-watermarking-technique-based-on-the-least-significant-bit/blob/main/HW1_A%20watermarking%20technique%20based%20on%20the%20least%20significant%20bit/Images/RESULT_IMAGE.jpg)
 
-Left top corner is the main picture.
-Right top corner is the watermarking effect image you want to mix in the main picture.
-
 <table>
     <tr> 
         <td>position</td>
