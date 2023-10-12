@@ -94,7 +94,7 @@ HW1_A watermarking technique based on the least significant bit
 │   └── result_main.jpg           #Also main image after embedding the effect one  
 |
 ├── code/              
-│   └── gray_img_code.py          #Turning the RGB image to gray onn  
+│   └── gray_img_code.py          #Turning the RGB image to gray one  
 │   └── hw_code.py                #The code using a watermarking technique based on the least significant bit 
 │   └── resize_code.py            #Resizing the image to the desired viewing size
 │
